@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/usr/bin/env bash
 #
 # %FFILE%
 # Copyright (C) %YEAR% %USER% <%MAIL%>
