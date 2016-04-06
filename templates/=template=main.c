@@ -5,7 +5,8 @@
  * 
  */
 
-#include "%FILE%.h"
 
-
-%HERE%
+int main( int argv, char** argv ){
+    %HERE%
+    return 0;
+}

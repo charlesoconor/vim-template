@@ -2,9 +2,8 @@ create or replace package %FILE%
 is
 /*
  * %FFILE%
- * Copyright (C) %YEAR% %USER% <%MAIL%>
+ * Copyright (C) %FDATE% %USER% <%MAIL%>
  *
- * Distributed under terms of the %LICENSE% license.
  */
 
   procedure main (pv_param1 varchar2(50)
@@ -21,9 +20,8 @@ create or replace package body %FILE%
 is
 /*
  * %FFILE%
- * Copyright (C) %YEAR% %USER% <%MAIL%>
+ * Copyright (C) %FDATE% %USER% <%MAIL%>
  *
- * Distributed under terms of the %LICENSE% license.
  */
 
   procedure main (pv_param1 varchar2(50)

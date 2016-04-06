@@ -1,8 +1,7 @@
 #=
     %FILE%
-    Copyright © %YEAR% %USER% <%MAIL%>
+    Copyright © %FDATE% %USER% <%MAIL%>
 
-    Distributed under terms of the %LICENSE% license.
 =#
 
 %HERE%

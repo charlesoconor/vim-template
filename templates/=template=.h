@@ -1,13 +1,14 @@
 /*
  * %FFILE%
- * Copyright (C) %YEAR% %USER% <%MAIL%>
+ * Copyright (C) %FDATE% %USER% <%MAIL%>
  *
- * Distributed under terms of the %LICENSE% license.
  */
 
 #ifndef %GUARD%
 #define %GUARD%
 
+class %FILE% {
 %HERE%
+};
 
 #endif /* !%GUARD% */

@@ -4,7 +4,7 @@ package %FILE%;
 #
 # Author %USER% <%MAIL%>
 # Version 0.1
-# Copyright (C) %YEAR% %USER% <%MAIL%>
+# Copyright (C) %FDATE% %USER% <%MAIL%>
 # Modified On %FDATE%
 # Created  %FDATE%
 #

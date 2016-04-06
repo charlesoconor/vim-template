@@ -15,8 +15,7 @@ PRO %FILE%
 ; History:
 ;
 ; Author:
-;       Copyright © %YEAR% %USER% <%MAIL%>
-;       Distributed under terms of the %LICENSE% license.
+;       Copyright © %FDATE% %USER% <%MAIL%>
 ;-
 
 COMPILE_OPT IDL2                ;Set compile options
