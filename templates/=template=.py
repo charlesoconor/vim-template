@@ -4,6 +4,6 @@
 # Copyright © %FDATE% %USER% <%MAIL%>
 #
 
-__author__ = "%USER%" 
+__author__ = "%USER%"
 
 %HERE%
