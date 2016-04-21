@@ -7,4 +7,3 @@
 %HERE%
 
 
--- vim:et

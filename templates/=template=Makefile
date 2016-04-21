@@ -6,6 +6,7 @@
 all:
 	%HERE%@echo "%FFILE% needs your attention"
 
+.PHONY: clean
+clean:
+	rm *.o temp *.out *.exe
 
-# vim:ft=make
-#
