@@ -1,4 +1,5 @@
 :Template	template.txt	/*:Template*
+:TemplateHere	template.txt	/*:TemplateHere*
 template-commands	template.txt	/*template-commands*
 template-configuration	template.txt	/*template-configuration*
 template-contents	template.txt	/*template-contents*
