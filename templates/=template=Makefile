@@ -8,5 +8,5 @@ all:
 
 .PHONY: clean
 clean:
-	rm *.o temp *.out *.exe
+	rm -f *.o temp *.out *.exe
 

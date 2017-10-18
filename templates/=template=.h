@@ -8,7 +8,7 @@
 #define %GUARD%
 
 class %FILE% {
-%HERE%
+  %HERE%
 };
 
 #endif /* !%GUARD% */
